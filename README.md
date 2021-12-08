@@ -1,4 +1,5 @@
-# Coefficients-Magnus-MS-gate-center-line-modelling
+# Analytical and experimental study of center line miscalibrations in Mølmer-Sørensen gates
+
 Code for the numerical calculation of the first and second order coefficients appearing in the Magnus MS gate modelling of the center line miscalibration.
 
 <p align="center">
